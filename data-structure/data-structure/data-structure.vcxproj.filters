@@ -24,5 +24,8 @@
     <ClCompile Include="double-linked-list.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

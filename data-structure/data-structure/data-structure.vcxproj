@@ -126,6 +126,7 @@
     <ClCompile Include="avl-tree.c" />
     <ClCompile Include="double-linked-list.c" />
     <ClCompile Include="linkedlist.c" />
+    <ClCompile Include="stack.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
